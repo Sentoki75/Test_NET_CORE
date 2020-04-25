@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbnPGt4Ys0xWCIOVfR+z8is1v69S0xQzZmScBSuBDx2XlfHCPL505dOdes1y/Np5QQVLKbFFkM6JeRPTOz+fQQ==",
+  "dgSpecHash": "tfEZjo7t1Xpi9tF4N+wKTN4v/cUAqJroAvSsjB8upeEWR+D6dTunSsNDELvJQ55HK1wl84h0/IJUyc6GuvKYhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus\\Documents\\Desarrollo\\Test_NET_CORE\\Test_NET_CORE.csproj",
+  "projectFilePath": "/home/developer/development/Test_NET_CORE/Test_NET_CORE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
