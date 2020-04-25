@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/developer/development/Test_NET_CORE/Test_NET_CORE.csproj",
+      "projectUniqueName": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj",
       "projectName": "Test_NET_CORE",
-      "projectPath": "/home/developer/development/Test_NET_CORE/Test_NET_CORE.csproj",
+      "projectPath": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj",
       "packagesPath": "/home/developer/.nuget/packages/",
-      "outputPath": "/home/developer/development/Test_NET_CORE/obj/",
+      "outputPath": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/developer/.nuget/NuGet/NuGet.Config"
