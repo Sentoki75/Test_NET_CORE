@@ -4,4 +4,4 @@ COPY app/bin/Release/netcoreapp3.1/publish/ app/
 
 WORKDIR /app
 
-ENTRYPOINT ["dotnet", "myapp.dll"]
+ENTRYPOINT ["dotnet", "Test_NET_CORE.dll"]
