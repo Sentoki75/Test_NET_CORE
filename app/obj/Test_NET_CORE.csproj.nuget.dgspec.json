@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj": {}
+    "/home/developer/development/Test_NET_CORE/app/Test_NET_CORE.csproj": {}
   },
   "projects": {
-    "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj": {
+    "/home/developer/development/Test_NET_CORE/app/Test_NET_CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj",
+        "projectUniqueName": "/home/developer/development/Test_NET_CORE/app/Test_NET_CORE.csproj",
         "projectName": "Test_NET_CORE",
-        "projectPath": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj",
+        "projectPath": "/home/developer/development/Test_NET_CORE/app/Test_NET_CORE.csproj",
         "packagesPath": "/home/developer/.nuget/packages/",
-        "outputPath": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/obj/",
+        "outputPath": "/home/developer/development/Test_NET_CORE/app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/developer/.nuget/NuGet/NuGet.Config"

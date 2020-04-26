@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o3WN8+43H4k/8IWtYYlwvSvbW+zOBsN48Gp8QygS4DpN+bxYr/Fw/cf5+PTo41P0Y7nPhhnnZgBhRrnyjfZpTA==",
+  "dgSpecHash": "gtXt6nIDiiN6wkGRFsokWcp5M10uv7ShFdk3yXIStmnhZcgkYqf8Jh/ZdgM+hT53RJ0ssrVQwEZ7GzvoYO/8pQ==",
   "success": true,
-  "projectFilePath": "/home/developer/development/Test_NET_CORE_docker/Test_NET_CORE/Test_NET_CORE.csproj",
+  "projectFilePath": "/home/developer/development/Test_NET_CORE/app/Test_NET_CORE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
